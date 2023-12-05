@@ -1,0 +1,236 @@
+2023/12/05 14:37:23 Skipping /Volumes/Austin Disk/.DocumentRevisions-V100: open /Volumes/Austin Disk/.DocumentRevisions-V100: operation not permitted
+2023/12/05 14:37:23 Skipping /Volumes/Austin Disk/.Spotlight-V100: open /Volumes/Austin Disk/.Spotlight-V100: operation not permitted
+2023/12/05 14:37:23 Skipping /Volumes/Austin Disk/.TemporaryItems: open /Volumes/Austin Disk/.TemporaryItems: operation not permitted
+2023/12/05 14:37:23 Skipping /Volumes/Austin Disk/.Trashes: open /Volumes/Austin Disk/.Trashes: operation not permitted
+2023/12/05 14:37:23 Skipping /Volumes/Austin Disk/.fseventsd: open /Volumes/Austin Disk/.fseventsd: permission denied
+2023/12/05 14:37:23 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected: exit status 128
+2023/12/05 14:37:23 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 14:37:23 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected/enviroplus-python: exit status 128
+2023/12/05 14:37:23 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 14:37:23 Successfully fetched in repository: /Volumes/Austin Disk/Projects/BitVault-Password-Manager---Python
+2023/12/05 14:37:23 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Editor
+2023/12/05 14:37:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/CS101
+2023/12/05 14:37:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/Fun Tetris
+2023/12/05 14:37:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/GEO
+2023/12/05 14:37:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/PDF Compiler
+2023/12/05 14:37:25 Successfully fetched in repository: /Volumes/Austin Disk/Projects/PDF-Compiler
+2023/12/05 14:37:25 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Word Processors/Wordy
+2023/12/05 14:37:25 Error fetching in repository /Volumes/Austin Disk/Projects/Other Stuff/chess-apl: exit status 128
+2023/12/05 14:37:25 Git error: remote: 
+remote: ========================================================================
+remote: 
+remote: ERROR: You are not allowed to download code from this project.
+
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2023/12/05 14:37:25 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Other Stuff/ispace
+2023/12/05 14:37:25 Successfully fetched in repository: /Volumes/Austin Disk/Projects/abdonmorales.github.io
+2023/12/05 14:37:25 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Utilities
+2023/12/05 14:37:25 Error fetching in repository /Volumes/Austin Disk/Projects/portfolio/portfolio: exit status 128
+2023/12/05 14:37:25 Git error: fatal: detected dubious ownership in repository at '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+
+2023/12/05 14:37:26 Successfully fetched in repository: /Volumes/Austin Disk/Projects/linux
+2023/12/05 14:37:27 Successfully fetched in repository: /Volumes/Austin Disk/Projects/sunos
+2023/12/05 14:37:27 Successfully fetched in repository: /Volumes/Austin Disk/UT Austin/UT Austin 2023-2024/Software/Projects/Editor
+2023/12/05 14:38:37 Skipping /Volumes/Austin Disk/.DocumentRevisions-V100: open /Volumes/Austin Disk/.DocumentRevisions-V100: operation not permitted
+2023/12/05 14:38:37 Skipping /Volumes/Austin Disk/.Spotlight-V100: open /Volumes/Austin Disk/.Spotlight-V100: operation not permitted
+2023/12/05 14:38:37 Skipping /Volumes/Austin Disk/.TemporaryItems: open /Volumes/Austin Disk/.TemporaryItems: operation not permitted
+2023/12/05 14:38:37 Skipping /Volumes/Austin Disk/.Trashes: open /Volumes/Austin Disk/.Trashes: operation not permitted
+2023/12/05 14:38:37 Skipping /Volumes/Austin Disk/.fseventsd: open /Volumes/Austin Disk/.fseventsd: permission denied
+2023/12/05 14:38:37 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected: exit status 128
+2023/12/05 14:38:37 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 14:38:37 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected/enviroplus-python: exit status 128
+2023/12/05 14:38:37 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/Fun Tetris
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/GEO
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/PDF Compiler
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Editor
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/BitVault-Password-Manager---Python
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Word Processors/Wordy
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/linux
+2023/12/05 14:38:37 Successfully fetched in repository: /Volumes/Austin Disk/Projects/PDF-Compiler
+2023/12/05 14:38:37 Error fetching in repository /Volumes/Austin Disk/Projects/portfolio/portfolio: exit status 128
+2023/12/05 14:38:37 Git error: fatal: detected dubious ownership in repository at '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/Projects/CS101
+2023/12/05 14:38:38 Error fetching in repository /Volumes/Austin Disk/Projects/Other Stuff/chess-apl: exit status 128
+2023/12/05 14:38:38 Git error: remote: 
+remote: ========================================================================
+remote: 
+remote: ERROR: You are not allowed to download code from this project.
+
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Other Stuff/ispace
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Utilities
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/Projects/abdonmorales.github.io
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/UT Austin/UT Austin 2023-2024/Software/Projects/Editor
+2023/12/05 14:38:38 Successfully fetched in repository: /Volumes/Austin Disk/Projects/sunos
+2023/12/05 14:43:08 Error fetching in repository /Volumes/Austin Disk/Projects/transcribe: exit status 128
+2023/12/05 14:43:08 Git error: fatal: unable to access 'https://git.moralesresearch.org/abdonmorales/whisper-gui.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to git.moralesresearch.org:443 
+
+2023/12/05 15:11:18 Skipping /Volumes/Austin Disk/.DocumentRevisions-V100: open /Volumes/Austin Disk/.DocumentRevisions-V100: operation not permitted
+2023/12/05 15:11:18 Skipping /Volumes/Austin Disk/.Spotlight-V100: open /Volumes/Austin Disk/.Spotlight-V100: operation not permitted
+2023/12/05 15:11:18 Skipping /Volumes/Austin Disk/.TemporaryItems: open /Volumes/Austin Disk/.TemporaryItems: operation not permitted
+2023/12/05 15:11:18 Skipping /Volumes/Austin Disk/.Trashes: open /Volumes/Austin Disk/.Trashes: operation not permitted
+2023/12/05 15:11:18 Skipping /Volumes/Austin Disk/.fseventsd: open /Volumes/Austin Disk/.fseventsd: permission denied
+2023/12/05 15:11:18 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected: exit status 128
+2023/12/05 15:11:18 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:11:18 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected/enviroplus-python: exit status 128
+2023/12/05 15:11:18 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:11:18 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Editor
+2023/12/05 15:11:18 Successfully fetched in repository: /Volumes/Austin Disk/Projects/BitVault-Password-Manager---Python
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/Fun Tetris
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/GEO
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/PDF Compiler
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/CS101
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Word Processors/Wordy
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/PDF-Compiler
+2023/12/05 15:11:19 Error fetching in repository /Volumes/Austin Disk/Projects/Other Stuff/chess-apl: exit status 128
+2023/12/05 15:11:19 Git error: remote: 
+remote: ========================================================================
+remote: 
+remote: ERROR: You are not allowed to download code from this project.
+
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Other Stuff/ispace
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Utilities
+2023/12/05 15:11:19 Successfully fetched in repository: /Volumes/Austin Disk/Projects/abdonmorales.github.io
+2023/12/05 15:11:20 Error fetching in repository /Volumes/Austin Disk/Projects/portfolio/portfolio: exit status 128
+2023/12/05 15:11:20 Git error: fatal: detected dubious ownership in repository at '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+
+2023/12/05 15:11:20 Successfully fetched in repository: /Volumes/Austin Disk/Projects/linux
+2023/12/05 15:11:21 Successfully fetched in repository: /Volumes/Austin Disk/UT Austin/UT Austin 2023-2024/Software/Projects/Editor
+2023/12/05 15:11:21 Successfully fetched in repository: /Volumes/Austin Disk/Projects/sunos
+2023/12/05 15:15:51 Error fetching in repository /Volumes/Austin Disk/Projects/transcribe: exit status 128
+2023/12/05 15:15:51 Git error: fatal: unable to access 'https://git.moralesresearch.org/abdonmorales/whisper-gui.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to git.moralesresearch.org:443 
+
+2023/12/05 15:22:51 Skipping /Volumes/Austin Disk/.DocumentRevisions-V100: open /Volumes/Austin Disk/.DocumentRevisions-V100: operation not permitted
+2023/12/05 15:22:51 Skipping /Volumes/Austin Disk/.Spotlight-V100: open /Volumes/Austin Disk/.Spotlight-V100: operation not permitted
+2023/12/05 15:22:51 Skipping /Volumes/Austin Disk/.TemporaryItems: open /Volumes/Austin Disk/.TemporaryItems: operation not permitted
+2023/12/05 15:22:51 Skipping /Volumes/Austin Disk/.Trashes: open /Volumes/Austin Disk/.Trashes: operation not permitted
+2023/12/05 15:22:51 Skipping /Volumes/Austin Disk/.fseventsd: open /Volumes/Austin Disk/.fseventsd: permission denied
+2023/12/05 15:22:51 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected: exit status 128
+2023/12/05 15:22:51 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:22:51 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected/enviroplus-python: exit status 128
+2023/12/05 15:22:51 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:22:51 Successfully fetched in repository: /Volumes/Austin Disk/Projects/BitVault-Password-Manager---Python
+2023/12/05 15:22:51 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Editor
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/CS101
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/Fun Tetris
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/GEO
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/PDF Compiler
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Word Processors/Wordy
+2023/12/05 15:22:52 Successfully fetched in repository: /Volumes/Austin Disk/Projects/PDF-Compiler
+2023/12/05 15:22:53 Error fetching in repository /Volumes/Austin Disk/Projects/Other Stuff/chess-apl: exit status 128
+2023/12/05 15:22:53 Git error: remote: 
+remote: ========================================================================
+remote: 
+remote: ERROR: You are not allowed to download code from this project.
+
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2023/12/05 15:22:53 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Utilities
+2023/12/05 15:22:53 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Other Stuff/ispace
+2023/12/05 15:22:53 Successfully fetched in repository: /Volumes/Austin Disk/Projects/abdonmorales.github.io
+2023/12/05 15:22:53 Successfully fetched in repository: /Volumes/Austin Disk/Projects/linux
+2023/12/05 15:23:23 Skipping /Volumes/Austin Disk/.DocumentRevisions-V100: open /Volumes/Austin Disk/.DocumentRevisions-V100: operation not permitted
+2023/12/05 15:23:23 Skipping /Volumes/Austin Disk/.Spotlight-V100: open /Volumes/Austin Disk/.Spotlight-V100: operation not permitted
+2023/12/05 15:23:23 Skipping /Volumes/Austin Disk/.TemporaryItems: open /Volumes/Austin Disk/.TemporaryItems: operation not permitted
+2023/12/05 15:23:23 Skipping /Volumes/Austin Disk/.Trashes: open /Volumes/Austin Disk/.Trashes: operation not permitted
+2023/12/05 15:23:23 Skipping /Volumes/Austin Disk/.fseventsd: open /Volumes/Austin Disk/.fseventsd: permission denied
+2023/12/05 15:23:23 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected: exit status 128
+2023/12/05 15:23:23 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:23:23 Error fetching in repository /Volumes/Austin Disk/Projects/Code@TACC 2022/codeattacc-connected/enviroplus-python: exit status 128
+2023/12/05 15:23:23 Git error: fatal: not a git repository (or any parent up to mount point /Volumes)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+2023/12/05 15:23:23 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/Fun Tetris
+2023/12/05 15:23:23 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/GEO
+2023/12/05 15:23:23 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Xcode/PDF Compiler
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Editor
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/BitVault-Password-Manager---Python
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Word Processors/Wordy
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/linux
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/PDF-Compiler
+2023/12/05 15:23:24 Error fetching in repository /Volumes/Austin Disk/Projects/portfolio/portfolio: exit status 128
+2023/12/05 15:23:24 Git error: fatal: detected dubious ownership in repository at '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory '/Volumes/Austin Disk/Projects/portfolio/portfolio'
+
+2023/12/05 15:23:24 Error fetching in repository /Volumes/Austin Disk/Projects/Other Stuff/chess-apl: exit status 128
+2023/12/05 15:23:24 Git error: remote: 
+remote: ========================================================================
+remote: 
+remote: ERROR: You are not allowed to download code from this project.
+
+remote: 
+remote: ========================================================================
+remote: 
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/CS101
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Other Stuff/ispace
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/abdonmorales.github.io
+2023/12/05 15:23:24 Successfully fetched in repository: /Volumes/Austin Disk/Projects/Utilities
+2023/12/05 15:23:25 Successfully fetched in repository: /Volumes/Austin Disk/UT Austin/UT Austin 2023-2024/Software/Projects/Editor
+2023/12/05 15:23:26 Successfully fetched in repository: /Volumes/Austin Disk/Projects/sunos
+2023/12/05 15:27:55 Error fetching in repository /Volumes/Austin Disk/Projects/transcribe: exit status 128
+2023/12/05 15:27:55 Git error: fatal: unable to access 'https://git.moralesresearch.org/abdonmorales/whisper-gui.git/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to git.moralesresearch.org:443 
+
